@@ -1,5 +1,6 @@
 /**
  * Description: The purpose of this code is to practise writing basic SQL statements and using Triggers and PL/SQL to solve problems.
+ * DBMS Used: PostgreSQL psql in a linux environment.
  * Author: Jakub Krulik
  * Date: 2023-01-16
  */
