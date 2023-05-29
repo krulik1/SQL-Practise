@@ -1,6 +1,7 @@
 # SQL-Practise
 This repository contains my solutions to database management lab exercises that I completed as part of my coursework.
 
+### Lab Requirements:
 Use PostgreSQL (PSQL or pgAdmin) or the database system of your choice to create a database MISCOMPANY that includes the following tables:
 
 Table 1: Employees. Includes the first name, middle initial, and last name of every worker in the company, as well as their social insurance number, date of birth, address, gender, salary, and the number of the department with which they are associated.
